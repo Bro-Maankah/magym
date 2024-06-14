@@ -301,6 +301,7 @@ table {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 3rem;
+    margin-buttom: 2rem;
 }
 .trainers .social-icons{
     display: flex;
