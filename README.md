@@ -4,7 +4,7 @@ This is the README file for the final project of the Dugsiiye.com Mentorship pro
 
 ## Description
 
-The purpose of this project is to showcase the skills and knowledge I have gained in HTML and CSS through the Dugsiiye.com Mentorship program. It serves as a submission for the final project.
+The purpose of this project is to showcase the skills and knowledge I have gained in HTML and CSS through the Dugsiiye.com Mentorship program. It serves as a submission for the final project in HTML and CSS.
 
 ## Installation
 
