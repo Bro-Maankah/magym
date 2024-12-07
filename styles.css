@@ -352,10 +352,10 @@ table {
 }
 .contact-form {
     padding: 80px;
-    background-image: url(https://templatemo.com/templates/templatemo_548_training_studio/assets/images/contact-bg.jpg);
+    background-image: URL(https://templatemo.com/templates/templatemo_548_training_studio/assets/images/contact-bg.jpg);
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size cover;
     
 }
 .contact-us  {
@@ -510,7 +510,7 @@ footer {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
         gap: 3rem;
-        margin-buttom: 2rem;
+        margin-bottom: 2rem;
     }
 
     .contact-us {
