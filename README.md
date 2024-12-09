@@ -1,4 +1,4 @@
-# Project Name
+# Project Name : Ma Gym
 
 This is the README file for the final project of the Dugsiiye.com Mentorship program, where I have mastered HTML and CSS.
 
